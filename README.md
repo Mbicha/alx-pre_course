@@ -1,2 +1,1 @@
-My first readme
-My first branch
+I created my first branch.
