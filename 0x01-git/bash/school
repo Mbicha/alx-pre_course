@@ -1,7 +1,0 @@
-
-#!/bin/bash
-<<<<<<< HEAD
-echo "The School is open!"
-=======
-The school is open!
->>>>>>> Cool, all my changes will be now part of the main branch, ready to be deployed!
